@@ -1,0 +1,10 @@
+Question_2i)
+A private modifier is one whose value for the attribute can only be accessed by its class but not other classes
+
+A public access modifier is one whose value can be accessed by all the classes when being called.class
+
+A protected modifier is one whose value can not be accessed by other classes unless when its attribute name is used
+
+Question_4i)
+A class is an entity for many objects.
+An object is an instance of a class.
